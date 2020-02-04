@@ -1,6 +1,6 @@
 #  ReactMovieDB Web Application
 
-## Synopsis
+## Synopsis Story
 
 Name:  ReactMovieDB
 
